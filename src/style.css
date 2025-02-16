@@ -1,5 +1,21 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: blue;
+    background: grey;
+
+}
+h1 {
+    background-color: beige;
+    text-align: center;
+    display: flexbox;
+    width: auto;
+
+}
+#excuse {
+    text-decoration: underline;
+    display: block;
+
+}
+img {
+    width: 800px;
 }
